@@ -1,1 +1,1 @@
-## Обучение Data Science
+## Pandas
